@@ -1,2 +1,2 @@
 # PsyhosomaticArt
-Psychosomaticart umbrela site.
+Psychosomaticart umbrela site, for all art related projects.
